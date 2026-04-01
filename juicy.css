@@ -1,3 +1,18 @@
 body{
     background-image: url(letöltés.jfif);
 }
+
+h1{
+   font-family: ;
+   color: rgb(194, 148, 169);
+   text-align: center;
+   margin-top: 200px;
+   font-size: 70px;
+}
+
+#div1{
+    background-color: black;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
