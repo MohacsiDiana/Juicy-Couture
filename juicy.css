@@ -74,7 +74,6 @@ body{
 
 table{
     background-color: rgb(0, 0, 0);
-    color: rgb(177, 153, 153);
     margin-left: 750px;
     position: absolute; top: 2px;
     width: 500px;
@@ -90,4 +89,8 @@ td{
 td :hover{
     color: rgb(238, 76, 144);
     font-size: 17px;
+}
+
+a{
+    color: rgb(177, 153, 153);
 }
