@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Manufacturing+Consent&family=Pinyon+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Manufacturing+Consent&family=Oranienbaum&family=Pinyon+Script&display=swap');
+
+
+body{
+    background-color: rgb(173, 92, 135);
+}
+
+#y2k{
+    width: 1260px;
+    height: 150px;
+    object-fit: cover;
+    position: absolute;
+    z-index: 1;
+}
+
+h1{
+    font-family: 'Manufacturing Consent';
+    color: rgb(177, 153, 153);
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+}
+
+#fekete{
+    background-color: black;
+    position: relative;
+    z-index: 2;
+    border-radius: 10px;
+    width: 500px;
+    margin-left: 380px;
+}
+
+#div1{
+    position: relative;
+    padding-top: 8px;
+}
