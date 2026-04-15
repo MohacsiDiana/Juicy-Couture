@@ -8,7 +8,7 @@ body{
 }
 
 #y2k{
-    width: 1260px;
+    width: 1415px;
     height: 150px;
     object-fit: cover;
     position: absolute;
@@ -25,13 +25,13 @@ h1{
     z-index: 3;
 }
 
-#fekete{
-    background-color: black;
+#lila{
+    background-color: rgb(136, 74, 107);
     position: relative;
     z-index: 2;
     border-radius: 10px;
     width: 500px;
-    margin-left: 380px;
+    margin-left: 430px;
 }
 
 #div1{

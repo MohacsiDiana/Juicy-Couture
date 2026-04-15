@@ -8,7 +8,7 @@ body{
 }
 
 #lace{
-    width: 1260px;
+    width: 1415px;
     height: 150px;
     object-fit: cover;
     position: absolute;
@@ -31,7 +31,7 @@ h1{
     z-index: 2;
     border-radius: 10px;
     width: 500px;
-    margin-left: 380px;
+    margin-left: 430px;
 }
 
 #div1{
