@@ -4,7 +4,7 @@
 
 
 body{
-    background-color: rgb(192, 100, 149);
+    background-color: rgb(221, 135, 181);
 }
 
 #zebra{
@@ -17,8 +17,7 @@ body{
 
 h1{
     font-family: 'Manufacturing Consent';
-    color: rgb(255, 255, 255);
-    text-shadow: 5px 5px 20px rgb(177, 165, 165);
+    color: rgb(223, 120, 183);
     font-size: 70px;
     text-align: center;
     position: relative;

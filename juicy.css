@@ -36,6 +36,10 @@ body{
     margin:5px;
 }
 
+#misskiss:hover{
+    width: 82px;
+}
+
 .div2 p{
     font-family: 'Oranienbaum';
     background-color: rgb(177, 153, 153);
