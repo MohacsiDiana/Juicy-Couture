@@ -4,7 +4,7 @@
 
 
 body{
-    background-color: rgb(221, 135, 181);
+    background-color: rgb(214, 161, 190);
 }
 
 #zebra{
@@ -74,4 +74,44 @@ h1{
     position: absolute;
     right: 5px;
     top: 195px;
+}
+
+#kteglalap1{
+    width: 250px;
+    height: 450px;
+    background-color: rgb(223, 120, 183);
+    border-radius: 10px;
+    position: absolute;
+    left: 37px;
+    top: 220px;
+}
+
+#kteglalap2{
+    width: 250px;
+    height: 450px;
+    background-color: rgb(223, 120, 183);
+    border-radius: 10px;
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+#kteglalap3{
+    width: 250px;
+    height: 450px;
+    background-color: rgb(223, 120, 183);
+    border-radius: 10px;
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+#kteglalap4{
+    width: 250px;
+    height: 450px;
+    background-color: rgb(223, 120, 183);
+    border-radius: 10px;
+    position: absolute;
+    left: 25px;
+    top: 25px;
 }
