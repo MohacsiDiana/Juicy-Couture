@@ -115,3 +115,59 @@ h1{
     left: 25px;
     top: 25px;
 }
+
+#pinkts{
+    width: 190px;
+    position: absolute;
+    left: 60px;
+    top: 170px;
+}
+
+#pinkp{
+    width: 190px;
+    position: absolute;
+    left: 60px;
+    top: 330px;
+}
+
+#bluets{
+    width: 190px;
+    position: absolute;
+    left: 60px;
+    top: -30px;
+}
+
+#bluep{
+    width: 190px;
+    position: absolute;
+    left: 60px;
+    top: 130px;
+}
+
+#camots{
+    width: 180px;
+    position: absolute;
+    left: 60px;
+    top: -20px;
+}
+
+#camop{
+    width: 180px;
+    position: absolute;
+    left: 60px;
+    top: 140px;
+}
+
+#blackts{
+    width: 190px;
+    position: absolute;
+    left: 60px;
+    top: -30px;
+}
+
+#blackp{
+    width: 190px;
+    position: absolute;
+    left: 60px;
+    top: 130px;
+}
