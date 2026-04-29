@@ -115,3 +115,17 @@ h1{
     left: 25px;
     top: 25px;
 }
+
+#vivalajuicy{
+    width: 220px;
+    position: absolute;
+    left: 20px;
+    top: 30px;
+}
+
+#vivalajuicyelixir{
+    width: 230px;
+    position: absolute;
+    left: 20px;
+    top: 30px;
+}
